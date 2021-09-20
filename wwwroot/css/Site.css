@@ -1,0 +1,19 @@
+﻿body {
+}
+
+input{
+    width:auto;
+}
+
+
+label{
+    font-size:14px;color:indianred;
+}
+
+#form input[type=submit]{
+    background-color:white;
+}
+
+#form{
+    background-color:greenyellow;
+}
