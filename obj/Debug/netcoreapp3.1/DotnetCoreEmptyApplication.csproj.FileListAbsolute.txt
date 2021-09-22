@@ -6,7 +6,6 @@ C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\bin\Debug\netcoreapp3.1\D
 C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\bin\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.runtimeconfig.dev.json
 C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\bin\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.dll
 C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\bin\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.pdb
-C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.csprojAssemblyReference.cache
 C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.AssemblyInfoInputs.cache
 C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.AssemblyInfo.cs
@@ -19,3 +18,16 @@ C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\D
 C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.dll
 C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.pdb
 C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.genruntimeconfig.cache
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.csprojAssemblyReference.cache
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\bin\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.Views.dll
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\bin\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.Views.pdb
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.RazorAssemblyInfo.cache
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.RazorAssemblyInfo.cs
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.TagHelpers.input.cache
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.TagHelpers.output.cache
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.RazorCoreGenerate.cache
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\Razor\Views\App\Index.cshtml.g.cs
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.Views.pdb
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.csproj.CopyComplete

@@ -1,13 +1,17 @@
-﻿<!DOCTYPE html>
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
     <title>Gunn Dada</title>
     <link href="css/Site.css" rel="stylesheet" />
-  
+
 </head>
 <body>
-    <h2> Startup</h2>
+    <h2> Startup @ViewBag.Title</h2>
     <div>
 
         <img style="width:400px" src="/Img/MrLion.jpg" />
@@ -21,8 +25,10 @@
 
         <li>c</li>
     </ul>
-    <div id="form">
-        <form>
+
+
+    <div id="formx">
+        <form id="yx">
             <label>Your Name: </label>
             <br />
             <input type="text" />
@@ -36,10 +42,11 @@
             <label>Message: </label> <br />
             <textarea rows="4"></textarea>
             <br />
-            <input type="submit" value="Send" />
+            <input type="submit" value="Send" id="sendbtn" />
         </form>
-
     </div>
-    <script src="js/index.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/index.js"></script>
+
 </body>
 </html>
