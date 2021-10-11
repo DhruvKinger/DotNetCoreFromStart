@@ -10,7 +10,13 @@ namespace DotnetCoreEmptyApplication.Controllers
     {
         public IActionResult Index()
         {
-            throw new InvalidProgramException("Bad things happen");
+            //throw new InvalidProgramException("Bad things happen");
+            return View();
+        }
+
+        public IActionResult Contact()
+        {
+            ViewBag.Title = "Contact";
             return View();
         }
     }

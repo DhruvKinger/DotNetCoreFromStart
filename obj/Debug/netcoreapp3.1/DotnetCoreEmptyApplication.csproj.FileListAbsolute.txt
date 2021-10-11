@@ -31,3 +31,6 @@ C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\R
 C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.RazorTargetAssemblyInfo.cs
 C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.Views.pdb
 C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\DotnetCoreEmptyApplication.csproj.CopyComplete
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dhruv\source\repos\DotnetCoreEmptyApplication\obj\Debug\netcoreapp3.1\Razor\Views\App\Contact.cshtml.g.cs
