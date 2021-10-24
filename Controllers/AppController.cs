@@ -13,7 +13,7 @@ namespace DotnetCoreEmptyApplication.Controllers
             //throw new InvalidProgramException("Bad things happen");
             return View();
         }
-
+        [HttpGet("contact")]
         public IActionResult Contact()
         {
             ViewBag.Title = "Contact";
